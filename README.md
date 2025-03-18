@@ -69,18 +69,10 @@ CREATE TABLE Orders(
 - Retrieve the **top 3 most expensive** books in the **Fantasy** genre.
 - Calculate the **stock remaining** after fulfilling all orders.
 
-For the full list of queries, check the [`queries.sql`](queries.sql) file.
-
-## Installation & Setup
-
-1. Install **PostgreSQL** and **pgAdmin**.
-2. Create a new database in **pgAdmin**.
-3. Run the **schema** and **queries** in `queries.sql` to create tables and retrieve data.
 
 ## Future Enhancements 🚀
 - Implement a **frontend interface** for user interaction.
 - Add **stored procedures** for automated stock management.
-- Integrate a **payment system** for real-time transactions.
 
 ## Contributors
 👨‍💻 **Ankit Raj**
